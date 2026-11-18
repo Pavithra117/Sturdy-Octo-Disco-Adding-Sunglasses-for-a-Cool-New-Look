@@ -1,6 +1,8 @@
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
-Name: Pavithra K
-Reg No: 212224240112
+
+## Name: Pavithra K
+
+## Reg No: 212224240112
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
@@ -112,6 +114,17 @@ plt.figure(figsize=[20,20]);
 
 ## Output:
 <img width="520" height="505" alt="Screenshot 2026-11-18 213707" src="https://github.com/user-attachments/assets/f8335900-fb26-4108-b268-408530abdfa0" />
+
+<img width="672" height="324" alt="Screenshot 2026-11-18 213716" src="https://github.com/user-attachments/assets/e307df1b-66cb-4b3b-8cf2-c87c0c84a3e4" />
+
+<img width="1225" height="258" alt="Screenshot 2026-11-18 220039" src="https://github.com/user-attachments/assets/e9c2276a-0160-4b21-97a3-8a6557215447" />
+
+<img width="530" height="478" alt="Screenshot 2026-11-18 213928" src="https://github.com/user-attachments/assets/aa225e27-3aac-4cba-807b-80f630d82d92" />
+
+<img width="1256" height="185" alt="Screenshot 2026-11-18 213941" src="https://github.com/user-attachments/assets/19a71a21-cd6b-42b7-8981-50ee5c5ba4a5" />
+
+<img width="1229" height="746" alt="image" src="https://github.com/user-attachments/assets/057c8d94-ceed-4697-94cb-6f870afce753" />
+
 
 
 
